@@ -1,0 +1,9 @@
+*.tfstate
+*.tfstate.*
+.terraform/
+*.backup
+*.log
+terraform.tfvars
+tfplan
+crash.log
+*.zip
